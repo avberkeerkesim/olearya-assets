@@ -17,6 +17,7 @@ değişse, hosting kapansa, tema değişse bile aşağıdaki adresler çalışma
 | https://assets.olearya.com/urun-sahne.jpg | "Ayvalık'ta bir sabah" ürün görseli (1100×1100) |
 | https://assets.olearya.com/kutu-250.jpg | 250 ml hediye kutusu (900×900) |
 | https://assets.olearya.com/kutu-750.jpg | 750 ml hediye kutusu (900×900) |
+| https://assets.olearya.com/mail-imza-v6.jpg | E-posta imzası (800×200) — Zoho imzası bu adresi canlı çeker |
 
 ## Nasıl çalışıyor
 
