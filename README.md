@@ -19,6 +19,12 @@ değişse, hosting kapansa, tema değişse bile aşağıdaki adresler çalışma
 | https://assets.olearya.com/kutu-750.jpg | 750 ml hediye kutusu (900×900) |
 | https://assets.olearya.com/zeytin-dali-v1.jpg | "Hasattan sofraya" bölümündeki zeytin dalı madalyonu (480×480) |
 | https://assets.olearya.com/mail-imza-v6.jpg | E-posta imzası (800×200) — Zoho imzası bu adresi canlı çeker |
+| https://assets.olearya.com/saha-01-zeytinlik-v1.webp | Ana sayfa saha şeridi 1/6 — zeytinlik (1200×800) |
+| https://assets.olearya.com/saha-02-elle-toplama-v1.webp | Ana sayfa saha şeridi 2/6 — elle toplama (1200×800) |
+| https://assets.olearya.com/saha-03-dal-v1.webp | Ana sayfa saha şeridi 3/6 — dalda yeşil zeytin (1200×800) |
+| https://assets.olearya.com/saha-04-kasa-v1.webp | Ana sayfa saha şeridi 4/6 — toplanan kasalar (1200×800) |
+| https://assets.olearya.com/saha-05-sikimhane-v1.webp | Ana sayfa saha şeridi 5/6 — sıkımhane (1200×800) |
+| https://assets.olearya.com/saha-06-dolum-v1.webp | Ana sayfa saha şeridi 6/6 — dolum (1200×800) |
 
 ## Nasıl çalışıyor
 
