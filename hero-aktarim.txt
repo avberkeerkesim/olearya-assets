@@ -296,8 +296,8 @@
      Sabit px verilirse `object-fit:cover` yüzünden görünen dilim pencere
      genişledikçe daralır: ölçüldü — 250 px sabit bantta 900 px pencerede
      sahnenin %45,7'si, 1440'ta %28,6'sı, 2560'ta yalnız %16,1'i görünüyordu.
-     18vw ile oran her genişlikte sabit %29,6 kalıyor. */
-  height:clamp(170px, 18vw, 360px);
+     26vw ile oran her genişlikte sabit %42,8 kalıyor (mobilde 38vw -> %54). */
+  height:clamp(230px, 26vw, 470px);
   margin-bottom:26px;          /* karusel kartıyla arasında nefes boşluğu */
   overflow:hidden;
   background:#F5EEDF;
@@ -311,7 +311,7 @@
      deniz %45-62 · zeytinlik %62-100. 250 px bantta sahnenin ~%29'u görünür,
      38%'e nişanlanınca dağlar ve denizin başı birlikte giriyor.
      ⚠ Üçünü (gökyüzü+dağ+deniz) birden göstermek ~380 px bant ister. */
-  object-position:center 38%;
+  object-position:center 44%;
   animation:ol-pan 44s ease-in-out infinite alternate;
   will-change:transform;
 }
@@ -335,7 +335,7 @@
   .ol-rozet-ust{right:30px; top:26px;}
   .ol-rozet img{width:92px; height:92px;}
   .ol-hero-noktalar{left:42px; bottom:52px;}
-  .ol-gravur{height:clamp(160px, 18vw, 300px); margin-bottom:22px;}
+  .ol-gravur{height:clamp(210px, 26vw, 330px); margin-bottom:22px;}
 }
 
 /* ==========================================================
@@ -375,7 +375,7 @@
   .ol-hero-noktalar{left:22px; bottom:46px;}
   .ol-hero-serit{gap:0 11px; padding:10px 14px; font-size:8.5px; letter-spacing:.12em;}
 
-  .ol-gravur{height:30vw; min-height:115px; margin-bottom:16px;}
+  .ol-gravur{height:38vw; min-height:146px; margin-bottom:16px;}
   .ol-gravur img{
     width:125%; min-width:125%;
     animation:ol-pan-mobil 44s ease-in-out infinite alternate;
@@ -399,7 +399,7 @@
   .ol-rozet img{width:58px; height:58px;}
   .ol-hero-noktalar{left:18px;}
   .ol-hero-serit{font-size:7.5px; gap:0 8px; letter-spacing:.1em;}
-  .ol-gravur{height:30vw; min-height:108px; margin-bottom:14px;}
+  .ol-gravur{height:38vw; min-height:136px; margin-bottom:14px;}
 }
 
 /* ==========================================================
