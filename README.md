@@ -25,6 +25,8 @@ değişse, hosting kapansa, tema değişse bile aşağıdaki adresler çalışma
 | https://assets.olearya.com/saha-04-kasa-v1.webp | Ana sayfa saha şeridi 4/6 — toplanan kasalar (1200×800) |
 | https://assets.olearya.com/saha-05-sikimhane-v1.webp | Ana sayfa saha şeridi 5/6 — sıkımhane (1200×800) |
 | https://assets.olearya.com/saha-06-dolum-v1.webp | Ana sayfa saha şeridi 6/6 — dolum (1200×800) |
+| https://assets.olearya.com/hero-ekmek-250-v1.webp | Ana sayfa karuseli 4. slayt — 250 ml, ekmek banma (1080×1350, 24.11.2026) |
+| https://assets.olearya.com/hero-sofra-250-v1.webp | Ana sayfa karuseli 5. slayt — 250 ml, tuzluk ve biberlik (1080×1350, 24.11.2026) |
 
 ## Nasıl çalışıyor
 
